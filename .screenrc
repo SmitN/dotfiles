@@ -1,0 +1,6 @@
+termcapinfo xterm* 'hs:ts=\E]0;:fs=\007:ds=\E]0;\007'
+defhstatus "screen ^E (^Et) | $USER@^EH"
+windowlist string "%h %f"
+caption always           "%?%F%{= Kk}%:%{=u kR}%? [%H] %h %-024=%{+b} %C%a %D %d %M %Y%{= dd}"
+hardstatus string "[%n] %h - %t"
+windowlist title "Num Name% %t"
