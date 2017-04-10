@@ -1,5 +1,3 @@
-" $Id: .vimrc 33 2010-12-15 21:10:05Z petef $
-
 if has("syntax")
   syntax on
 endif
